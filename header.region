@@ -1,7 +1,6 @@
 <!doctype html>
 <html>
   <head>
-  <p>Hello World</p>
 	  {.if template.mobileStylesEnabled}
 	  <meta name="viewport" content="width=device-width, initial-scale=1">
 	  {.end}
